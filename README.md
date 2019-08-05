@@ -1,5 +1,5 @@
 # Handi(a.k.a Handy)
-
+# This is only a demo.
 This repository is created and maintained according to 'one-click' idea of the author. It contains some frequently-used functions.
 All you have to do is to just call the corresponding function. It will save your time and your energy for minor jobs.
 
